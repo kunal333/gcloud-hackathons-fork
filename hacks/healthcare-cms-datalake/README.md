@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The IoT Hack of the Century will take you on a whirlwind tour in the world of IoT and how it is being used in the modern world of mineral extraction in exotic locations like the Arctic and the wilds of South Africa.
+The Healthcare CMS Datalake of the Century will take you on a whirlwind tour in the world of IoT and how it is being used in the modern world of mineral extraction in exotic locations like the Arctic and the wilds of South Africa.
 
 ## Learning Objectives
 
@@ -73,7 +73,7 @@ When setting up an IoT device, it is important to understand how 'thingamajigs' 
 
 > **Note** *Do NOT provide direct links to files or folders in the gHacks Github repository from the student guide. Instead, you should refer to the "resources in the Google Space Files section".*
 
-*Here is some sample challenge text for the IoT Hack Of The Century:*
+*Here is some sample challenge text for the Healthcare CMS Datalake Of The Century:*
 
 In this challenge, you will properly configure the thingamajig for your IoT device so that it can communicate with the mother ship.
 
